@@ -1,0 +1,222 @@
+	           
+				.navbar-nav  li  a:hover{
+					border-radius:25px;
+					background-color:#CC0066 !important;
+					color:white !important;
+				}
+				.navbar-nav  li  a{
+					color:black !important;
+					font-family:Geneva;
+					font-size:15px;
+					
+				}
+				.navbar-brand:hover{
+					color:#A0A0A0 !important;
+				}
+				
+				 nav{
+				   padding:10px;
+				 
+				  }
+				  
+
+			   .home{
+					background-image:url("img/slider.jpeg");
+					background-position: center;
+					background-repeat: no-repeat;
+					background-size: cover;
+					-webkit-background-size: cover;
+					-moz-background-size: cover;
+					-o-background-size: cover;
+					height:100%;
+					padding-top:4%;
+					margin-top:70px;
+				 
+				}
+				@media (max-width:1000px){
+				.home{
+					background-image:url("img/background.png");
+					background-position: center;
+					background-repeat: no-repeat;
+					background-size: cover ;
+					-webkit-background-size: cover;
+					-moz-background-size: cover;
+					-o-background-size: cover;
+					height:100%;
+					padding-top:4%;
+					margin-top:70px;
+				}
+				}
+				
+				.shop{
+				    background-color:black;
+					color:white;
+					text-decoration:none;
+					border-radius:40px;
+					padding:10px 30px;
+					margin-top:-80px;
+					font-family:verdana;
+					font-size:20px;
+					}
+				.shop:hover{
+					color:white;
+				    text-decoration:none;
+					background-color:#CC0066}
+				.shop1{
+					 padding-top:20px;
+					 padding-bottom:80px;
+				  }
+				
+				 .home h1{
+				  font-family:verdana;
+				   font-size:50px;
+				   }
+				.home h2{
+				  color:#e84393;
+				  font-family:Tahoma;
+				  letter-spacing:1px;
+				  }
+		
+				.heading{
+				 background-color:#FFE6FD;
+				 padding:15px;
+				 font-family:verdana;
+				 font-size:40px;
+				 
+				 }
+				 .heading span{
+				 color:#e84393;
+				 }
+				 
+				.videocontainer h3{
+				    position: absolute;
+					bottom:30%;
+					background:#ffffff; 
+					width: 100%;
+					padding:10px 0px;
+					text-align: center;	
+					font-size:30px;	
+					letter-spacing:2px;  
+					word-spacing:2px;
+					mix-blend-mode:screen;
+				
+				}
+				
+				video{
+					box-shadow: 0px 0px 5px;
+					
+					}
+				.choose h4{
+					color:#A0A0A0;
+					font-family:tahoma;
+					text-align:justify;
+					
+				}
+			    .choose h1{
+					color:black;
+					font-family:garamond;
+					
+				}
+				html{
+					scroll-padding-top: 7rem;
+					 scroll-behavior: smooth;
+					 
+				}
+				.about1{
+					padding:30px 0px;
+				}
+				.box{
+					background-color:white;
+					margin:10px 0px;
+					padding:10px;
+					border-radius:5px;
+					display:flex;
+				}
+				
+				.box span {
+					margin-left:15px;
+					text-transform:capitalize;
+					font-family:cursive;
+					}
+				.box0{
+					margin-top:7%;
+					box-shadow:0px 0px 8px grey;
+					
+					}
+				.box0 h1{
+					font-family:Georgia ;
+				}
+				
+				.prod{
+					display:flex;
+				
+					
+				}
+				
+				.prod:hover{
+					background-color:#FFE5CC;
+					color:#99004C;
+					
+				}
+				.buyprod span button{
+					background-color:#99004C;
+					border-radius:5px;
+					padding:8px;
+					margin-top:10%;
+					color:white;
+					
+				}
+				.buyprod span button:hover{
+					background-color:#FF007F;
+					border-color:#CC0000;
+					color:white;
+				}
+				
+				
+				
+				.box2{
+					padding:20px 10px;
+					box-shadow:0px 0px 8px grey;
+					text-align:justify;
+				}
+				.box1{
+			     padding:20px 30px;
+					
+				}
+				.names{
+				 display:flex;
+				 }
+				.names h3{
+				   padding-left:20px;
+				   }
+				.names span{
+					color:#C4A2A2;
+					font-family:cursive;
+				}
+				
+				
+				.info{
+					background-color:#C3C8CA;
+					font-family:serif;
+					padding-bottom:3%;
+					margin-top:3%;
+				}
+				
+			    
+				.carousel-inner{
+						 height: 350px;
+
+						}
+				.carousel-inner h1{
+						 font-family:lucida;
+                         text-transform:capitalize;
+						}
+
+				.item img{
+						 height: 100% !important;
+						 width:  100% !important;
+						
+						}
+				  
+					
+				
